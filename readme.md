@@ -152,15 +152,7 @@ Sequential with retries:
 - Handoff → End.
 
 **Text Diagram**:
-```
-Discovery (Perplexity) → Enrichment (RAG/Scrape) → Identification (LinkedIn)
-↓
-Outreach (LLM) → Send (SendGrid) → Reply Handler (Classify)
-↓ (Branch)
-No Reply/Standard → Loop | Booking → Calendly | Complex → Escalate
-↓
-Handoff (CRM Push) → End
-```
+
 
 ### Technical Considerations
 - **Data Freshness**: Real-time scraping; cache 7d static/24h dynamic; email verification.
@@ -198,5 +190,3 @@ MIT License. See [LICENSE](LICENSE).
 - LangChain/LangGraph: Workflow.
 - Ollama: Local LLM.
 - Streamlit: UI.
-
-*Updated October 02, 2025. Built for MENA marketing.*
