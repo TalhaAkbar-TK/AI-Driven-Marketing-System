@@ -1,4 +1,4 @@
-# Lucidya AI-Driven Marketing System Prototype
+# AI-Driven Marketing System Prototype
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF6B35?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/) [![LangChain](https://img.shields.io/badge/LangChain-007BFF?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/) [![Ollama](https://img.shields.io/badge/Ollama-0A0A0A?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 
